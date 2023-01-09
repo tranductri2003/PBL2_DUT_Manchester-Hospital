@@ -1,0 +1,7 @@
+24
+Wit
+Eyes
+20
+330000
+0
+Improve visual disturbances.
